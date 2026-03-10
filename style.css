@@ -1505,7 +1505,7 @@ body.no-scroll {
     .btn { width: 100% !important; margin: 0 !important; text-align: center !important; }
     .btn-primary, .btn-outline { margin-left: 0 !important; margin-right: 0 !important; width: 100% !important; text-align: center !important; }
     
-    .hero-image-container { height: 280px !important; }
+    .hero-image-container { height: 310px !important; }
 
     .cards-grid, .target-grid, .projects-grid { grid-template-columns: 1fr !important; }
     .card-img-container { height: 200px !important; }

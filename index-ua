@@ -9,12 +9,12 @@
     <meta name="keywords" content="3D сканування, обмірні креслення, Leica iCON, архітектура, обмір приміщень">
 
     <meta property="og:type" content="website">
-    <meta property="og:url" content="https://scanning3d.net/"> <meta property="og:title" content="SCANNING 3D | Високоточне 3D-сканування">
+    <meta property="og:url" content="https://scanning-3d.eu/"> <meta property="og:title" content="SCANNING 3D | Високоточне 3D-сканування">
     <meta property="og:description" content="Високоточний вимір. Цифрова модель приміщення. Створюємо точну цифрову копію вашого об'єкта для бездоганного проектування та дизайну.">
-    <meta property="og:image" content="https://scanning3d.net/IMG/faviconsocial.jpg"> <meta name="twitter:card" content="summary_large_image">
+    <meta property="og:image" content="https://scanning-3d.eu/IMG/faviconsocial.jpg"> <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:title" content="SCANNING 3D | Високоточне 3D-сканування">
     <meta name="twitter:description" content="Високоточний вимір. Цифрова модель приміщення. Створюємо точну цифрову копію вашого об'єкта.">
-    <meta name="twitter:image" content="https://scanning3d.net/IMG/faviconsocial.jpg">
+    <meta name="twitter:image" content="https://scanning-3d.eu/IMG/faviconsocial.jpg">
 
     <link rel="icon" type="image/jpg" sizes="200x200" href="IMG/favicon.png">
     <link rel="apple-touch-icon" sizes="180x180" href="IMG/favicon.png">
@@ -48,11 +48,11 @@
 
         <div class="header-actions">
             <div class="lang-switcher">
-                <a href="index.html" class="lang-btn active">UA</a>
+                <a href="index.html" class="lang-btn">EN</a>
                 <span class="lang-divider">/</span>
                 <a href="index-ru.html" class="lang-btn">RU</a>
                 <span class="lang-divider">/</span>
-                <a href="index-en.html" class="lang-btn">EN</a>
+                <a href="index-ua.html" class="lang-btn active">UA</a>
             </div>
 
             <a href="#contact" class="btn-small">Замовити 3D-замір</a>
@@ -73,8 +73,7 @@
                 <h1>Високоточний вимір 
                 <br>Цифрова модель<br> Приміщення 
                 </h1>
-                <p>Проводимо 3D-сканування приміщень з подальшою побудовою високоточної цифрової моделі.
-                Фіксуємо геометрію до міліметра із застосуванням професійного обладнання.</p>
+                <p>Проводимо 3D-сканування приміщень по всій Європі з подальшою побудовою високоточної цифрової моделі. Наші спеціалісти готові до виїзду на об'єкти будь-якої складності, щоб зафіксувати геометрію до міліметра за допомогою професійного обладнання.</p>
                 
                 <div class="btn-group">
                     <a href="#contact" class="btn btn-primary">Замовити 3D-замір</a>
@@ -275,7 +274,7 @@
   <div class="container">
     
     <div class="section-header reveal-left">
-        <h2 class="title-main">3D-сканування у дії</h2>
+        <h2 class="title-main">Географія наших проектів</h2>
     </div>
 
     <div class="projects-grid">
@@ -285,38 +284,58 @@
         <source src="IMG/video-1.mp4" type="video/mp4">
     </video>
     <div class="project-overlay">
-        <h3>План</h3>
-        <p>Деталізація</p>
+        <h3>Румунія</h3>
+        <p>Констанца</p>
     </div>
 </div>
 
       <div class="project-card reveal-scale" style="transition-delay: 0.2s;">
         <video autoplay muted loop playsinline>
-          <source src="IMG/video-2.mp4" type="video/mp4">
+        <source src="IMG/video-2.mp4" type="video/mp4">
         </video>
         <div class="project-overlay">
-          <h3>Реконструкція сходів</h3>
-          <p>Точність ±1 мм</p>
+        <h3>Італія</h3>
+        <p>Перуджа</p>
         </div>
       </div>
 
       <div class="project-card reveal-scale" style="transition-delay: 0.3s;">
         <video autoplay muted loop playsinline>
-          <source src="IMG/video-3.mp4" type="video/mp4">
+        <source src="IMG/video-3.mp4" type="video/mp4">
         </video>
         <div class="project-overlay">
-          <h3>3D-обмір</h3>
-          <p>Фіксація комунікацій</p>
+        <h3>Болгарія</h3>
+        <p>Софія</p>
         </div>
       </div>
 
       <div class="project-card reveal-scale" style="transition-delay: 0.4s;">
         <video autoplay muted loop playsinline>
-          <source src="IMG/video-4.mp4" type="video/mp4">
+        <source src="IMG/video-4.mp4" type="video/mp4">
         </video>
         <div class="project-overlay">
-          <h3>Ванна кімната</h3>
-          <p>Точність у тісних умовах</p>
+        <h3>Румунія</h3>
+        <p>Бухарест</p>
+        </div>
+      </div>
+
+      <div class="project-card reveal-scale" style="transition-delay: 0.4s;">
+        <video autoplay muted loop playsinline>
+        <source src="IMG/video-5.mp4" type="video/mp4">
+        </video>
+        <div class="project-overlay">
+        <h3>Австрія</h3>
+        <p>Відень</p>
+        </div>
+      </div>
+
+      <div class="project-card reveal-scale" style="transition-delay: 0.4s;">
+        <video autoplay muted loop playsinline>
+          <source src="IMG/video-6.mp4" type="video/mp4">
+        </video>
+        <div class="project-overlay">
+          <h3>Німеччина</h3>
+          <p>Берлін</p>
         </div>
       </div>
 
@@ -420,6 +439,22 @@
                 </div>
             </div>
 
+            <div class="faq-item">
+                <div class="faq-question">
+                    В яких країнах ви працюєте ?
+                    <span class="faq-icon">
+                        <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                            <path d="M6 9L12 15L18 9"/>
+                        </svg>
+                    </span>
+                </div>
+                <div class="faq-answer-wrapper">
+                    <div class="faq-answer">
+                        <p>Ми працюємо по всій Європі. Наша команда повністю мобільна і готова виїхати на ваш об'єкт у будь-якій європейській країні зі своїм професійним обладнанням.</p>
+                    </div>
+                </div>
+            </div>
+
         </div>
     </div>
 </section>
@@ -466,12 +501,21 @@
                     <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-phone-icon lucide-phone">
                         <path d="M13.832 16.568a1 1 0 0 0 1.213-.303l.355-.465A2 2 0 0 1 17 15h3a2 2 0 0 1 2 2v3a2 2 0 0 1-2 2A18 18 0 0 1 2 4a2 2 0 0 1 2-2h3a2 2 0 0 1 2 2v3a2 2 0 0 1-.8 1.6l-.468.351a1 1 0 0 0-.292 1.233 14 14 0 0 0 6.392 6.384"/>
                     </svg>
-                    <a href="tel:+380634530666">+38 (063) 453 06 66</a>
+                    <a href="tel:+40727982461">+40 (727) 982 461</a>
                 </div>
                 
                 <div class="contact-item cascade-item phone-2">
                     <div style="width: 24px; height: 24px; flex-shrink: 0;"></div>
-                    <a href="tel:+40727982461">+40 (727) 982 461</a>
+                    <a href="tel:+380634530666">+38 (063) 453 06 66</a>
+                </div>
+            <div class="contact-item cascade-item address-item">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-map-pin">
+                        <path d="M20 10c0 6-8 12-8 12s-8-6-8-12a8 8 0 0 1 16 0Z"/><circle cx="12" cy="10" r="3"/>
+                    </svg>
+                    <div style="display: flex; flex-direction: column;">
+                        <span style="color: #ffffff; font-weight: 500; font-size: 14px; margin-bottom: 2px;">Головний офіс</span>
+                        <a href="https://maps.google.com/?q=Constanta,+Romania" target="_blank" rel="noopener noreferrer">Румунія, Констанца</a>
+                    </div>
                 </div>
             </div>
         </div>

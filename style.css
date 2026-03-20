@@ -657,7 +657,7 @@ text-transform: none;
 .target-section {
     background-color: #050505;
     color: #ffffff;
-    padding: 80px 0 400px;
+    padding: 80px 0 270px;
 }
 
 .target-grid {
@@ -765,9 +765,9 @@ text-transform: none;
 
 .projects-grid {
     display: grid;
-    grid-template-columns: repeat(2, 1fr);
+    grid-template-columns: repeat(3, 1fr);
     gap: 32px;
-    max-width: 1400px; 
+    max-width: 1600px; 
     margin: 0 auto;
 }
 
@@ -824,7 +824,6 @@ text-transform: none;
     text-transform: uppercase;
     letter-spacing: 1px;
 }
-
 
 
 .faq-section {
@@ -1219,6 +1218,11 @@ text-transform: none;
     margin-bottom: -20px;
 }
 
+#animated-contacts.show-contacts .address-item {
+    opacity: 1;
+    transform: translateY(0);
+    transition-delay: 0.8s;
+}
 
 
 .light-footer {
@@ -1471,7 +1475,12 @@ body.no-scroll {
     .faq-container { grid-template-columns: 1fr !important; }
     .faq-content { position: static !important; text-align: center !important; margin-bottom: 40px !important; }
     .quote-text { text-align: center !important; }
-    .quote-contacts { align-items: center !important; }
+    .quote-contacts { 
+    align-items: flex-start !important;
+    width: max-content !important;
+    max-width: 100%;
+    margin: 0 auto !important;
+    }
 }
 
 @media (max-width: 992px) {

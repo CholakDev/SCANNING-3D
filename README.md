@@ -22,8 +22,8 @@ The site is designed with an emphasis on strict, minimalist design (Apple-style)
 ## 📂 Project Structure
 ```text
 ├── IMG/ # Images, videos and icons
-├── index.html # Ukrainian version (Main)
-├── index-ru.html # Russian version
+├── index.html # Russian version (Main)
+├── index-ua.html # Ukrainian version
 ├── index-en.html # English version
 ├── style.css # Global styles and animations
 └── script.js # Interactive elements logic
